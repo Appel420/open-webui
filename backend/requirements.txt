@@ -9,7 +9,7 @@ passlib[bcrypt]==1.7.4
 cryptography
 
 requests==2.32.4
-aiohttp==3.11.11
+aiohttp==3.12.14
 async-timeout
 aiocache
 aiofiles
@@ -66,7 +66,7 @@ einops==0.8.1
 
 
 ftfy==6.2.3
-pypdf==4.3.1
+pypdf==6.0.0
 fpdf2==2.8.2
 pymdown-extensions==10.14.2
 docx2txt==0.8
@@ -85,7 +85,7 @@ sentencepiece
 soundfile==0.13.1
 azure-ai-documentintelligence==1.0.2
 
-pillow==11.2.1
+pillow==11.3.0
 opencv-python-headless==4.11.0.86
 rapidocr-onnxruntime==1.4.4
 rank-bm25==0.2.2
